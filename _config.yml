@@ -6,7 +6,7 @@
 name: Edwin Yosorahardjo
 
 # Short bio or description (displayed in the header)
-description: A passionate developer specialized in .Net stacks, fast learner, well versed in Analysis, Estimation, Agile Development, Server setup, Deployments, Virtualization
+description: Personal blog of tech and journal.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/38809169
@@ -47,13 +47,13 @@ url: https://github.com/edwinyosorahardjo
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "https://edwinyosorahardjo.github.io/blog"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+permalink: /blog/:categories/:year/:month/:day/:title
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
@@ -84,3 +84,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+breadcrumbs:
+  root:
+    hide: false  # show breadcrumbs on root/home page
+    image: false # Show image or title text
