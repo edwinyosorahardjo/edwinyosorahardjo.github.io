@@ -6,7 +6,7 @@
 name: Edwin Yosorahardjo
 
 # Short bio or description (displayed in the header)
-description: Passionate developer specialized in .Net stacks, fast learner, well versed in Analysis, Estimation, Agile Development, Server setup, Deployments, Virtualization
+description: A passionate developer specialized in .Net stacks, fast learner, well versed in Analysis, Estimation, Agile Development, Server setup, Deployments, Virtualization
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/38809169
@@ -47,7 +47,7 @@ url: https://github.com/edwinyosorahardjo
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/edwinyosorahardjo.github.io"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
