@@ -5,11 +5,11 @@ categories: [Jekyll]
 tags: [blogging, jekyll, github pages]
 ---
 
-My first blog using Github and Jekyll.
+
 
 There are many ways to setup the blog with github, the easiest one for now by forking [Jekyll Now](https://github.com/barryclark/jekyll-now). By following the instructions, I got my blog up in minutes.
 
-### Setting Up Jekyll Now
+### Setting Up Git Pages using Jekyll-Now 
 Here is what I done:
 1. Fork [Jekyll Now](https://github.com/barryclark/jekyll-now)
 2. Rename it to edwinyosorahardjo.github.io
@@ -31,7 +31,7 @@ Here is what I done:
     [text](link)
 </pre>
 
-### Setting up Jekyll (from scratch)
+### Setting up using Jekyll
 Forking Jekyll Now was pretty easy, so, I up for a harder challenge to setup [Jekyll](https://jekyllrb.com/) from scratch to see how it goes.
 1. Install [Ruby Rail] (https://www.ruby-lang.org/en/downloads/) 
 . run the quick-start instruction from [Jekyll](https://jekyllrb.com/) website
@@ -49,7 +49,7 @@ Forking Jekyll Now was pretty easy, so, I up for a harder challenge to setup [Je
 
 Having a look the configuration and the need of a lot of reading, I ended up customizing Jekyll Now configuration and see the built version on my local.
 
-### Other tools that I install
+### Other tools that I use
 1. [Git](https://git-scm.com/downloads)
 2. [Tortoise Git](https://tortoisegit.org/)
 3. [Notepad++](https://notepad-plus-plus.org)
