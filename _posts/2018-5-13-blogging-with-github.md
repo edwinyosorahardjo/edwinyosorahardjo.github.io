@@ -5,7 +5,7 @@ categories: [Jekyll]
 tags: [blogging, jekyll, github pages]
 ---
 
-After googling around and reading some articles, finally, I made myself a blog with Github and Jekyll.
+My first blog using Github and Jekyll.
 
 There are many ways to setup the blog with github, the easiest one for now by forking [Jekyll Now](https://github.com/barryclark/jekyll-now). By following the instructions, I got my blog up in minutes.
 
